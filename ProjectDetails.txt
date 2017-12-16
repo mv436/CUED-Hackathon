@@ -1,0 +1,10 @@
+# CUED-Hackthon
+
+Under a time target of 24 hours, the goal of the hackathon was to produce 
+a project using  an ARM microprocessor, which incorporated multiple sensors 
+such as light, distance, temperature etc. As a team of five we decided to use 
+the microprocessor, to measure the number of people in the room, temperature, 
+humidity and air quality and send that to a local HTTP Python Server from which 
+the data can be collected on the server. Then we created a website that uploads 
+the data continuously from the server and plots graphs of the different 
+parameters of the room.
